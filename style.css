@@ -680,6 +680,12 @@ input {
 	}
 }
 
+@media (max-width: 580px) {
+	.results-output p {
+		display: none;
+	}
+}
+
 @media (max-width: 555px) {
 	#calculator {
 		height: 180px;
