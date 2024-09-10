@@ -401,6 +401,9 @@ input {
 	.sushi-image img {
 		width: 200px;
 	}
+	.results-output p {
+		font-size: 0.7;
+	}
 }
 
 @media (max-width: 888px) {
