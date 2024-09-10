@@ -677,7 +677,7 @@ input {
 	}
 }
 
-@media (max-width: 530px) {
+@media (max-width: 555px) {
 	#calculator {
 		height: 180px;
 	}
